@@ -14,13 +14,6 @@
           <target>1.8</target>
         </configuration>
       </plugin>
-      <distributionManagement>
-       <repository>
-         <id>internal.repo</id>
-         <name>Internal repo</name>
-         <url>file:///home/in</url>
-       </repository>
-   </distributionManagement>
     </plugins>
   </build>
 </project>
