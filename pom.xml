@@ -3,6 +3,7 @@
   <groupId>xx</groupId>
   <artifactId>xx</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
                
   <distributionManagement>
     <repository>
